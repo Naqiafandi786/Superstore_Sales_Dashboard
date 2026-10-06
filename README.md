@@ -1,17 +1,17 @@
-# 📊 Superstore Sales Dashboard (Power BI)
+#  Superstore Sales Dashboard (Power BI)
 
 ![Dashboard Preview](Super_Store_Dashboard_ss.png)
 
-### 🔍 Overview
+### Overview
 This project presents an *interactive Power BI dashboard* analyzing Superstore sales performance across different categories, regions, and time periods. It highlights key insights on sales, profit, and customer segments to support data-driven decision-making.
 
 ---
-### 🗂 Files Included
+###  Files Included
 - Super_Store_Dashboard.pbix – Power BI dashboard file  
 - Superstore_Data.csv – Dataset used for visualization  
 - Super_Store_Dashboard_ss.png – Dashboard preview image
 
-### 📈 Key Features
+###  Key Features
 - *Dynamic visualizations* for Sales, Profit, and Quantity by Category and Sub-Category  
 - *Time-series analysis* of monthly sales and profit trends (2019–2020)  
 - *Regional analysis* showing top-performing states and segments  
@@ -20,7 +20,7 @@ This project presents an *interactive Power BI dashboard* analyzing Superstore s
 
 ---
 
-### 🧠 Skills & Tools Used
+###  Skills & Tools Used
 - *Power BI Desktop*
 - *Power Query (Data Cleaning & Transformation)*
 - *Data Modeling & DAX Measures*
@@ -28,14 +28,7 @@ This project presents an *interactive Power BI dashboard* analyzing Superstore s
 
 ---
 
-### 🗂 Files Included
-- Superstore_Dashboard.pbix – Power BI dashboard file  
-- Superstore_Data.csv – Dataset used for visualization  
-- Dashboard_Screenshot.png – Dashboard preview  
-
----
-
-### 💬 Insights
+###  Insights
 - *Highest sales* generated from Office Supplies category.  
 - *Standard Class* shipping mode dominates total orders.  
 - *Consumer segment* contributes nearly half of total sales.  
